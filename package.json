@@ -1,0 +1,15 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My resume",
+  "author": "Chun-Kai Wang <chunkai1312@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "export": "resume export index.html --theme kwan",
+    "serve": "resume serve --theme kwan"
+  },
+  "devDependencies": {
+    "jsonresume-theme-kwan": "0.0.2",
+    "resume-cli": "^0.4.19"
+  }
+}
