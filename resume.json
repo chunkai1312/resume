@@ -38,8 +38,9 @@
       "position": "Principal Software Engineer",
       "website": "https://www.wavenet.com.tw",
       "startDate": "2017-07-16",
+      "summary": "Software lead for projects, provided technical direction to the team members, worked closely with the Software Engineers and Product Managers, planned software staffing and product development.",
       "highlights": [
-        "Led R&D team members to design and develop an company's internal ad reporting system named \"Nautilus\" that improved media team workflow and dramatically increased productivity.",
+        "Led R&D team members to design and develop an company's internal ad reporting system that improved media team workflow and dramatically increased productivity.",
         "Introduced Agile Software Development methodology for project that required quick turnaround and transparency.",
         "Designed, implemented and supported fully automated Continuous Integration and Continuous Delivery processes."
       ]
@@ -50,10 +51,55 @@
       "website": "https://www.wavenet.com.tw",
       "startDate": "2015-08-03",
       "endDate": "2017-07-15",
+      "summary": "Participated in system design, development and maintenance for digital marketing advertising platform.",
       "highlights": [
-        "Developed an agency trading desk called \"Punwave ATD\" to integrate Facebook, Google & Punwave DSP to serve ads with dynamic budget allocation.",
-        "Developed an ad optimization system called \"Punwave Smart Manager\" for cross-media performance monitoring and dynamic budget allocation according to the ad performance in real-time.",
-        "Implemented an ad pixel code called \"Punwave Tag Container\" to track and find proper Target Audience for remarketing campaigns."            
+        "Developed an agency trading desk to integrate Facebook, Google & Punwave DSP to serve ads with dynamic budget allocation.",
+        "Developed an ad optimization system for cross-media performance monitoring and dynamic budget allocation according to the ad performance in real-time.",
+        "Implemented ad pixel code to track and find proper Target Audience for remarketing campaigns."            
+      ]
+    },
+    {
+      "company": "Department of Information Management, National Taiwan University of Science and Technology",
+      "position": "Research Assistant",
+      "startDate": "2015-01-01",
+      "endDate": "2015-07-31",
+      "summary": "Assisted executing industry-university cooperative research project with Foxlink International Inc.",
+      "highlights": [
+        "Developed a user-customized service platform for IoT-based senser devices.",
+        "Designed data exchange format and API specifications."
+      ]
+    },
+    {
+      "company": "Department of Information Management, National Taiwan University of Science and Technology",
+      "position": "Teaching Assistant",
+      "startDate": "2014-09-01",
+      "endDate": "2015-01-31",
+      "summary": "Assisted teaching graduate-level course \"Introduction to RFID Information Security\".",
+      "highlights": [
+        "Developed the course material and taught programming lab sections.",
+        "Designed and implemented laboratory exercises based on Android devices and Near-field communication (NFC) technology for the course."
+      ]
+    },
+    {
+      "company": "Department of Information Management, National Taiwan University of Science and Technology",
+      "position": "Teaching Assistant",
+      "startDate": "2014-02-01",
+      "endDate": "2014-06-30",
+      "summary": "Assisted teaching course \"Programming Language\" and introduced object-oriented programming.",
+      "highlights": [
+        "Supervised lab sections and lectured course when professor was unavailable.",
+        "Provided a positive atmosphere to students learning the fundamentals of Java, and basic concepts of Design Patterns."
+      ]
+    },
+    {
+      "company": "Taiwan Information Security Center, National Taiwan University of Science and Technology",
+      "position": "Research Assistant",
+      "startDate": "2013-08-01",
+      "endDate": "2014-07-31",
+      "summary": "Assisted researches of National Science Council project \"Integrity Assurance on App Program Source and Data Exchange among Apps\".",
+      "highlights": [
+        "Provided a mechanism to solve App repackaging and source integrity assurance issue.",
+        "Designed and implemented the App Integrity Detection Application module and App Screener server module."
       ]
     },
     {
@@ -61,9 +107,9 @@
       "position": "Second Lieutenant",
       "startDate": "2012-08-06",
       "endDate": "2013-07-07",
+      "summary": "Served in Chung Cheng Armed Forces Preparatory School for compulsory military service, led more than 400 students.",
       "highlights": [
-        "Served in Chung Cheng Armed Forces Preparatory School for compulsory military service, led more than 400 students.",
-        "Developed a leave system for group's human management by using Visual Basic for Applications (VBA).",
+        "Developed a leave system for group's human management by using VBA.",
         "Awarded outstanding contribution award."
       ]
     }
@@ -78,10 +124,10 @@
     },
     {
       "institution": "National Taiwan University of Science and Technology",
-      "area": "Information Management",
+      "area": "Information Management, Technology Management",
       "studyType": "Bachelor",
       "startDate": "2008-09-01",
-      "endDate": "2012-06-30"
+      "endDate": "2012-07-31"
     }
   ],
   "awards": [
