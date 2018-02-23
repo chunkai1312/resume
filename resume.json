@@ -207,9 +207,6 @@
         "MySQL",
         "PostgreSQL",
         "MSSQL",
-        "MySQL",
-        "PostgreSQL",
-        "MSSQL",
         "MongoDB",
         "Redis"
       ]
