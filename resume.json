@@ -180,35 +180,33 @@
   ],
   "skills": [
     {
-      "name": "Prommanging",
-      "level": "Master",
+      "name": "Programming",
+      "level": "familiar",
       "keywords": [
         "JavaScript",
         "PHP",
         "Java",
         "C#",
-        "C",
+        "C/C++",
         "Shell"
       ]
     },
     {
-      "name": "Frontend Development",
-      "level": "Master",
+      "name": "Platform",
+      "level": "familiar",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "React/Redux",
-        "AngularJS",
-        "Vue"        
+        "Windows",
+        "Linux/Unix",
+        "Mac OS X"
       ]
     },
     {
-      "name": "Backend Development",
-      "level": "Master",
+      "name": "Database",
+      "level": "familiar",
       "keywords": [
-        "NodeJS",
-        "PHP",
+        "MySQL",
+        "PostgreSQL",
+        "MSSQL",
         "MySQL",
         "PostgreSQL",
         "MSSQL",
@@ -217,24 +215,37 @@
       ]
     },
     {
-      "name": "DevOps",
-      "level": "Master",
+      "name": "Frontend",
+      "level": "familiar",
       "keywords": [
-        "Git",
-        "Docker",
-        "Jankins",
-        "Travis CI",
-        "Drone"
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React/Redux",
+        "AngularJS",
+        "Vue"        
       ]
     },
     {
-      "name": "Mobile App Development",
-      "level": "Master",
+      "name": "Backend",
+      "level": "familiar",
+      "keywords": [
+        "Node.js",
+        "PHP",
+        "Express",
+        "Koa",
+        "Laravel",
+        "CodeIgniter"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "familiar",
       "keywords": [
         "Android",
         "React Native",
         "PhoneGap/Cordova",
-        "Inoic"
+        "Ionic"
       ]
     }
   ],
