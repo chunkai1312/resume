@@ -16,19 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Facebook",
-        "username": "kevin.chunkai.wang",
-        "url": "https://www.facebook.com/kevin.chunkai.wang"
-      },
-      {
         "network": "GitHub",
         "username": "chunkai1312",
         "url": "https://github.com/chunkai1312"
-      },
-      {
-        "network": "Medium",
-        "username": "@chunkai.wang",
-        "url": "https://medium.com/@chunkai.wang"
       }
     ]
   },
@@ -167,15 +157,13 @@
       "name": "A NFC-Based Authentication Scheme for Personalized IPTV Services",
       "publisher": "Advances in Intelligent Information Hiding and Multimedia Signal Processing",
       "releaseDate": "2017-07-18",
-      "website": "https://doi.org/10.1007/978-3-319-63859-1_34",
-      "summary": "Internet Protocol Television (IPTV) has promptly changed the way providing information and entertainment. In this study, we present a novel authentication scheme for IPTV services in which a robust hash function is adopted as the major crypto-module for securing IPTV systems. The security analysis shows that the proposed mechanism can meet the critical security requirements for personalized IPTV services. In brief, the proposed mechanism is suitable for personalized IPTV services and is able to be easily deployed within current IPTV systems."
+      "website": "https://doi.org/10.1007/978-3-319-63859-1_34"
     },
     {
       "name": "A robust NFC-based personalized IPTV service system",
       "publisher": "Multimedia Tools and Applications",
       "releaseDate": "2017-03-10",
-      "website": "https://doi.org/10.1007/s11042-017-4380-z",
-      "summary": "Internet Protocol Television (IPTV) is becoming a platform that changes the way we obtain information and entertainment, and offers interactive features and personalized services. Although IPTV service providers can perform TV viewer identification and authentication through a unique hardware identifier in the form of a set-top box (STB), it is based on STB-level identification which leads to the situation where all members of a subscriber family get the same level of access to services. This indicates that existing identification schemes are inconsistent with IPTV’s main intent, namely, providing personalized services. Smartphones with NFC (Near Field Communication) capabilities have grown to become very popular over the years. In this study, we present a novel personalized IPTV service system in which NFC-based identification with HCE (Host Card Emulation) is adopted. The experiments and analyses show that the proposed system can meet the system requirements and provide great usability, deployability and service scalability for personalized IPTV services."
+      "website": "https://doi.org/10.1007/s11042-017-4380-z"
     }
   ],
   "skills": [
